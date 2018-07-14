@@ -1,4 +1,4 @@
-package top.vabook.array;
+package top.vabook.array.replacespace;
 
 /**
  * @author vabook@hotmail.com

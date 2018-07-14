@@ -1,4 +1,4 @@
-package top.vabook.array;
+package top.vabook.array.replacespace;
 /**
 * @author vabook@hotmail.com
 * @version 2018年7月5日 下午10:57:38
