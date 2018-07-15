@@ -1,4 +1,4 @@
-package top.vabook.list;
+package top.vabook.list.listreverse;
 
 import java.util.ArrayList;
 import java.util.List;
