@@ -1,4 +1,4 @@
-package top.vabook.binarytree;
+package top.vabook.binarytree.rebuildtree;
 public class TreeNode {
 	public int val ;
 	public TreeNode leftNode ;

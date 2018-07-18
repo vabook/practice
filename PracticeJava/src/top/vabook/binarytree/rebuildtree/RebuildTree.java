@@ -1,4 +1,4 @@
-package top.vabook.binarytree;
+package top.vabook.binarytree.rebuildtree;
 
 /**
  * rebuild binaryTree by the way of recursion
