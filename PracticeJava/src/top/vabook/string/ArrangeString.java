@@ -23,7 +23,6 @@ public class ArrangeString {
 				arr[i] = arr[begin];
 				arr[begin] = temp;
 				arrangeChar(arr, begin + 1);
-				
 			}
 		}
 	}
