@@ -1,4 +1,4 @@
-package top.vabook.string;
+package top.vabook.string.arrangestring;
 /**
  * @author vabook@163.com
  * @version 2018年7月30日 下午10:34:02
